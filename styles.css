@@ -23,7 +23,6 @@ body{
     #page-banner{
     background: #eee ;
     padding: 10px 0;
-    
     }
     
     #page-banner h1, #page-banner p{
@@ -103,7 +102,6 @@ body{
     border-radius: 0 4px 4px 0;
     cursor: pointer;
     width: 100px;
-    float: left;
     margin: 20px 0;
     border-left: 0;
     color: white;
